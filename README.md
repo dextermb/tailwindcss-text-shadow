@@ -1,4 +1,4 @@
-# Tailwindcss _x_ Open Color
+# Tailwindcss Text Shadows
 
 This plugin makes basic text shadow classes available for use with Tailwindcss.
 
