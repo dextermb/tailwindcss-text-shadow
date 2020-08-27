@@ -1,0 +1,13 @@
+{
+  "name": "tw-ts",
+  "version": "1.0.0",
+  "description": "A tailwindcss package adds text shadows",
+  "main": "index.js",
+  "repository": "git@github.com:dextermb/tailwindcss-text-shadow",
+  "author": "Dexter Marks-Barber <dexter@marks-barber.co.uk>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "tailwindcss": "^1.7.5"
+  }
+}
